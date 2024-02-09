@@ -1,0 +1,8 @@
+{
+  "name": "Figma React Render",
+  "id": "737805260747778023",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "editorType": ["figma", "figjam"]
+}
